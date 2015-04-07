@@ -716,7 +716,7 @@ td {
 }
 .post pre,
 .post code {
-  font-family: "PT Mono", Consolas, Monaco, Menlo, monospace;
+  font-family: "PT Serif", "Microsoft Yahei";
 }
 .post code {
   background: #eee;
@@ -767,7 +767,7 @@ td {
 }
 .post .gist .gist-file {
   border: none;
-  font-family: "PT Mono", Consolas, Monaco, Menlo, monospace;
+  font-family: "PT Serif", "Microsoft Yahei";
   margin: 0;
 }
 .post .gist .gist-file .gist-data {
@@ -1099,7 +1099,7 @@ pre .javascript .function {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #ffa23d;
+  background: #f23694;
 }
 .sidebar-nav {
   margin: 0;
